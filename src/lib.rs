@@ -107,7 +107,6 @@
 	unsize,
 	specialization,
 	trivial_bounds,
-	fnbox
 )]
 #![warn(
 	missing_copy_implementations,
